@@ -23,4 +23,4 @@ Dalam menjalankan program ini, bisa dilakukan sebagai berikut.
 
 ## DOKUMENTASI PROGRAM
 
-<img src="https://github.com/zahraftrm/LATIHAN7DPBO2023/blob/main/dokumentasi%20program.gif" width=85% height=85%>
+<img src="https://github.com/zahraftrm/LATIHAN7DPBO2023/blob/main/Dokumentasi%20Program.gif" width=85% height=85%>
