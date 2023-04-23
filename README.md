@@ -23,4 +23,4 @@ Dalam menjalankan program ini, bisa dilakukan sebagai berikut.
 
 ## DOKUMENTASI PROGRAM
 
-<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/1.%20Login.png" width=50% height=50%>
+<img src="https://github.com/zahraftrm/LATIHAN7DPBO2023/blob/main/dokumentasi%20program.gif" width=50% height=50%>
