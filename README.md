@@ -4,7 +4,7 @@ Saya Zahra Fitria Maharani NIM 2102545 mengerjakan soal Latihan 7 dalam mata kul
 
 ## ALUR PROGRAM
 
-Merubah syntax pada program agar ketika user memindahkan bola ke atas/bawah/kanan/kiri, maka nilai dari score akan selalu bertambah satu.
+Merubah syntax pada program agar ketika user memindahkan bola ke atas/bawah/kanan/kiri, maka nilai dari score akan selalu bertambah satu. Perubahan syntax tersebut dilakukan di file Controller.java dengan menambahkan variabel global score dan merubah syntax pada method keyPressed menjadi game.setScore(score+=1); .
 
 ## DOKUMENTASI PROGRAM
 
