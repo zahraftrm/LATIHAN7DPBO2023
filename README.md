@@ -8,7 +8,7 @@ Merubah dan menambah syntax pada program agar :
 1. Ketika user memindahkan bola ke atas/bawah/kanan/kiri, maka nilai dari score akan selalu bertambah satu. 
 Perubahan syntax tersebut dilakukan di file Controller.java dengan menambahkan variabel global score dan merubah syntax pada method keyPressed menjadi game.setScore(score+=1); . 
 2. Ketika user memindahkan bola ke atas misalnya kemudian memindahkannya ke atas lagi, maka nilai score tidak bertambah (begitu pula dengan arah bawah/kiri/kanan).
-Perubahan syntax tersebut dilakukan di file Controller.java dengan menambahkan variabel global keyBefore dan menambah syntax pada method keyPressed untuk menampung nilai key sebelumnya, yakni keyPressed = key; . 
+Perubahan syntax tersebut dilakukan di file Controller.java dengan menambahkan variabel global keyBefore dan menambah syntax pada method keyPressed untuk menampung nilai key sebelumnya, yaitu keyPressed = key; . 
 
 ## DOKUMENTASI PROGRAM
 
